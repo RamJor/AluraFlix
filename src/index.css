@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  font-family: var(--font);
+  background-color: #191919;
+
+  box-sizing: border-box;
+}
+
+
+:root {
+  --font: "Source Code Pro";
+  --colorwhite: #FFFF;
+  --color-frontend: #6BD1FF;
+  --color-inov-gestion:#FFBA05;
+  --color-error: #FF0000;
+  --color-grey:#A5A5A5;
+  --color-blue: #007BFF;
+  --color-blue-light: #2271D1;
+  --color-black:#000000;
+}
+
+
