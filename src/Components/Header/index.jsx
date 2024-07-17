@@ -27,7 +27,7 @@ function Header() {
                 </HeaderLink>
                 <HeaderLink to="./NuevoVideo">
                  <button className={activado ==='nuevo video'?`${styles.link} ${styles.activolink}`: styles.link}
-                 onClick={() =>manejoClick('nuevo video')} > NUEVO VIDEO</button>
+                 onClick={() =>manejoClick('nuevo video')} to="./NuevoVideo"> NUEVO VIDEO</button>
                 
                 </HeaderLink>
                 </div>

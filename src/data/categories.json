@@ -1,0 +1,19 @@
+{
+    "categories":[
+    {
+      "categoria": "FrontEnd",
+      "color": "107,209,255",
+      "id": "1"
+    },
+    {
+      "categoria": "BackEnd",
+      "color": "0,200,111",
+      "id": "2"
+    },
+    {
+      "categoria": "Innovación y Gestión",
+      "color": "255,168,5",
+      "id": "3"
+    }
+  ]
+}

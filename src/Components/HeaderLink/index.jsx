@@ -1,15 +1,14 @@
-import {  NavLink  } from "react-router-dom";
-import styles from "./HeaderLink.module.css";
-import { useState } from "react";
+import {  Link,   } from "react-router-dom";
+
 
 
 
 function HeaderLink({url,children}) {
    
     return(
-        <NavLink to={url} >
+        <Link to={url} >
         {children}
-        </NavLink>
+        </Link>
     )
 }
 
